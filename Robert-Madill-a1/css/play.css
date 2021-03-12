@@ -1,0 +1,31 @@
+/*
+Robert Madill
+Student ID: 991566014
+SYST10199 - Web Programming
+*/
+/*
+--coral: #ff8a5bff;
+--black-coffee: #342e37ff;
+--yellow-green: #a2d729ff;
+--baby-powder: #fafffdff;
+--azure: #3185fcff;
+*/
+body{
+    background-color:#fafffdff;
+    color: #342e37ff;
+    background-image: url(../images/img1.jpg);
+    background-size: auto;
+    
+    
+}
+button{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1.5px;
+    padding: 10px;
+    border-style: groove;
+    margin:auto;
+    display:block;
+    background-color: rgba(52, 46, 55, .8);
+    color:#fafffdff;
+}
