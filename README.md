@@ -77,10 +77,6 @@ This project happens to be my very first JavaScript project. This was an assignm
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 After we select to play:
 ![rps-play](https://user-images.githubusercontent.com/19481324/158635771-c76b33b0-f086-41e9-9e52-6e1fb1740aec.png)
 
