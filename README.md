@@ -76,17 +76,24 @@ This project happens to be my very first JavaScript project. This was an assignm
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+### How to play:
 
-After we select to play:
+You will be asked to choose either: Rock (Press 1), Paper (Press 2) or Scissors (Press 3)<br>
+When you enter your choice and click OK, the computer will randomly choose Rock, Paper or Scissors as well<br>
+If you win, you'll get a point. If the computer wins, it will get a point. Try to get as many points as you can
+to beat the computer!<br>
+After each round, you will be asked if you would like to play again. If you decide to end the game (Click cancel), you will see the final score!<br>
+        
+### After we select to play:
 ![rps-play](https://user-images.githubusercontent.com/19481324/158635771-c76b33b0-f086-41e9-9e52-6e1fb1740aec.png)
 
-We entered an option and got a point:
+### We entered an option and got a point:
 ![score](https://user-images.githubusercontent.com/19481324/158635970-010c5287-f720-45b0-902f-ebb3c0a7b895.png)
 
-To exit we hit cancel and the final score will appear:
+### To exit we hit cancel and the final score will appear:
 ![finalscore](https://user-images.githubusercontent.com/19481324/158636085-80ab88d4-dedd-4cbd-97ff-32631cef5417.PNG)
 
-Once we exit we can click the button ontop of the page to bring us home:
+### Once we exit we can click the button ontop of the page to bring us home:
 ![back-homepage](https://user-images.githubusercontent.com/19481324/158636232-ab120350-1cd9-4014-96af-94b08061ffb8.PNG)
 
 
