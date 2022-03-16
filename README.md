@@ -84,16 +84,16 @@ If you win, you'll get a point. If the computer wins, it will get a point. Try t
 to beat the computer!<br>
 After each round, you will be asked if you would like to play again. If you decide to end the game (Click cancel), you will see the final score!<br>
         
-### After we select to play:
+#### After we select to play:
 ![rps-play](https://user-images.githubusercontent.com/19481324/158635771-c76b33b0-f086-41e9-9e52-6e1fb1740aec.png)
 
-### We entered an option and got a point:
+#### We entered an option and got a point:
 ![score](https://user-images.githubusercontent.com/19481324/158635970-010c5287-f720-45b0-902f-ebb3c0a7b895.png)
 
-### To exit we hit cancel and the final score will appear:
+#### To exit we hit cancel and the final score will appear:
 ![finalscore](https://user-images.githubusercontent.com/19481324/158636085-80ab88d4-dedd-4cbd-97ff-32631cef5417.PNG)
 
-### Once we exit we can click the button ontop of the page to bring us home:
+#### Once we exit we can click the button ontop of the page to bring us home:
 ![back-homepage](https://user-images.githubusercontent.com/19481324/158636232-ab120350-1cd9-4014-96af-94b08061ffb8.PNG)
 
 
