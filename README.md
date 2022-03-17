@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![rps-homepage](https://user-images.githubusercontent.com/19481324/158622510-69c77b2b-fe1a-4abc-9c5d-50833274f3a5.png)
+
 
 This project happens to be my very first JavaScript project. This was an assignment for Web Programming at Sheridan College in my first year, second semester. We were taught the basics of JavaScript and it's syntax. This simple web browser game is a fun way to play Rock, Paper, Scissors against the code I've written. This project showed me how much I enjoy coding in JavaScript and how valuable it is in web developement. 
 
@@ -83,11 +83,14 @@ This project happens to be my very first JavaScript project. This was an assignm
 ## Usage
 ### How to play:
 
-You will be asked to choose either: Rock (Press 1), Paper (Press 2) or Scissors (Press 3)<br>
-When you enter your choice and click OK, the computer will randomly choose Rock, Paper or Scissors as well<br>
-If you win, you'll get a point. If the computer wins, it will get a point. Try to get as many points as you can
+1. You will be asked to choose either: Rock (Press 1), Paper (Press 2) or Scissors (Press 3)<br>
+2. When you enter your choice and click OK, the computer will randomly choose Rock, Paper or Scissors as well<br>
+3. If you win, you'll get a point. If the computer wins, it will get a point. Try to get as many points as you can
 to beat the computer!<br>
-After each round, you will be asked if you would like to play again. If you decide to end the game (Click cancel), you will see the final score!<br>
+4. After each round, you will be asked if you would like to play again. If you decide to end the game (Click cancel), you will see the final score!
+
+#### Home Page:
+![rps-homepage](https://user-images.githubusercontent.com/19481324/158622510-69c77b2b-fe1a-4abc-9c5d-50833274f3a5.png)
         
 #### After we select to play:
 ![rps-play](https://user-images.githubusercontent.com/19481324/158635771-c76b33b0-f086-41e9-9e52-6e1fb1740aec.png)
