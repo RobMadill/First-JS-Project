@@ -64,7 +64,7 @@
 
 
 
-This project happens to be my very first JavaScript project. This was an assignment for Web Programming at Sheridan College in my first year, second semester. We were taught the basics of JavaScript and it's syntax. This simple web browser game is a fun way to play Rock, Paper, Scissors against the code I've written. This project showed me how much I enjoy coding in JavaScript and how valuable it is in web developement. 
+This project happens to be my very first JavaScript project. This was an assignment for Web Programming at Sheridan College in my first year, second semester. We were taught the basics of JavaScript and it's syntax. This simple web browser game is a fun way to play Rock, Paper, Scissors against the code I've written. This project showed me how much I enjoy coding in JavaScript and how valuable it is in web development. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
